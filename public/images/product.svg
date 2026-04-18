@@ -1,0 +1,5 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#e2e8f0"/>
+  <rect x="180" y="120" width="440" height="360" rx="24" fill="#cbd5e1"/>
+  <text x="400" y="290" text-anchor="middle" font-size="42" fill="#334155" font-family="Arial, sans-serif">Market Ürünü</text>
+</svg>
